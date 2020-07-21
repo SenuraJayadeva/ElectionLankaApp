@@ -5,7 +5,7 @@ import "./navbar.css";
 export default class HeaderNavbar extends Component {
   render() {
     return (
-      <div>
+      <div class="navBar">
         <ul>
           <li>
             <a href="/">Home</a>
@@ -13,12 +13,7 @@ export default class HeaderNavbar extends Component {
           <li>
             <a href="/politicalParties">Political Parties</a>
           </li>
-          <li>
-            <a href="/searchcandidates">Search Candidates</a>
-          </li>
-          <li>
-            <a href="#contact">Contact</a>
-          </li>
+
           <li style={{ float: "right" }}>
             <a class="active" href="#about">
               About

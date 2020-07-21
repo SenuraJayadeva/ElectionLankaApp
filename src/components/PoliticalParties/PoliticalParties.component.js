@@ -51,7 +51,7 @@ export default function PoliticalParties() {
   }
   return (
     <div>
-      <table>{partiesList()}</table>
+      <table>{partiesList()} </table>
     </div>
   );
 }

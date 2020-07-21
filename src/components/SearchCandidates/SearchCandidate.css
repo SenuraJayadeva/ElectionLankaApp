@@ -1,0 +1,20 @@
+.formInputs {
+  margin: 10px 40px !important;
+
+  /* min-width: 500px !important; */
+}
+
+.header {
+  margin: 20px !important;
+}
+
+.card-border {
+  margin: 10px 0px !important;
+  border: #2993cc 2px solid !important;
+}
+
+.card-border1 {
+  text-align: center;
+}
+
+/*Background*/
